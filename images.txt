@@ -4,6 +4,4 @@ nginx
 #xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64
-mysql:8.0.39
-mysql:8.4.2-oraclelinux7
-postgres:14
+postgres
