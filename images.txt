@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64
 mysql:8.4.2
 postgres:14
+sameersbn/redmine:5.1.3
