@@ -10,5 +10,4 @@
 #minio/minio:RELEASE.2023-10-25T06-33-25Z
 #atmoz/sftp
 #adoptopenjdk/openjdk8
-adoptopenjdk/openjdk17
-#adoptopenjdk/openjdk21
+madiva/openjdk17
