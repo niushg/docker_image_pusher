@@ -11,4 +11,4 @@
 #adoptopenjdk/openjdk8
 #atmoz/sftp
 adoptopenjdk/openjdk17
-adoptopenjdk/openjdk21
+#adoptopenjdk/openjdk21
