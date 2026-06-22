@@ -12,4 +12,4 @@
 #adoptopenjdk/openjdk8
 #madiva/openjdk17
 #madiva/openjdk21
-sapmachine/17-jdk-alpine-3.23
+openjdk:17-ea-slim
