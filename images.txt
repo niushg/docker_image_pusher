@@ -11,4 +11,5 @@
 #atmoz/sftp
 #adoptopenjdk/openjdk8
 #madiva/openjdk17
-madiva/openjdk21
+#madiva/openjdk21
+openjdk:17-jdk-slim
