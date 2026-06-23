@@ -12,4 +12,5 @@
 #adoptopenjdk/openjdk8
 #madiva/openjdk17
 #madiva/openjdk21
-openjdk:17-ea-slim
+#openjdk:17-ea-slim
+debian:stable-slim
